@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/studentofjs-svelte5-mcp-badge.png)](https://mseep.ai/app/studentofjs-svelte5-mcp)
+
 # Svelte 5 MCP Server
 
 A specialized Model Context Protocol (MCP) server for Svelte 5 frontend development, providing curated knowledge, code examples, and intelligent assistance for modern Svelte development with runes, snippets, and enhanced reactivity.
